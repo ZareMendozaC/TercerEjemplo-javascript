@@ -12,4 +12,5 @@
 - multiplicar montoPorHora*horasTrabajadas y almacenar en resultado
 - presionar calcular
 - mostrar resultado
+
 *fin*
